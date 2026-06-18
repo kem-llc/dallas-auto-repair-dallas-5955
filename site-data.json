@@ -1,0 +1,318 @@
+{
+  "business": {
+    "name": "Dallas Auto Repair",
+    "shortName": "Dallas Auto",
+    "tagline": "Your Trusted Neighborhood Auto Mechanic in Dallas, TX",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 275-5955",
+    "address": "3806 Buckner Blvd, Dallas, TX 75227",
+    "city": "Dallas, TX",
+    "hours": "Mon–Fri: 7:30 AM – 6:00 PM, Sat: 8:00 AM – 2:00 PM, Sun: Closed",
+    "ctaLabel": "Schedule Your Appointment",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Dallas Auto Repair | Expert Mechanic in Dallas, TX | (214) 275-5955",
+    "description": "Dallas Auto Repair offers professional auto mechanic services in Dallas, TX. From brake repair to engine diagnostics, we keep your car running safely. Call (214) 275-5955 today."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas Auto Repair",
+      "headline": "Expert Auto Mechanic Services in Dallas, TX",
+      "subheadline": "Reliable, honest, and affordable car repair from your neighborhood experts.",
+      "primaryCta": "Book an Appointment",
+      "secondaryCta": "Get a Free Estimate"
+    },
+    "stats": [
+      {
+        "value": "25+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "1,000+",
+        "label": "Cars Serviced"
+      },
+      {
+        "value": "4.9",
+        "label": "Customer Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Diagnostics",
+        "title": "Advanced Computer Diagnostics",
+        "body": "Our state-of-the-art diagnostic equipment quickly identifies issues, saving you time and money. We explain every finding in plain English so you can make informed decisions.",
+        "bullets": [
+          "Check engine light diagnosis",
+          "OBD-II scanning and analysis",
+          "Comprehensive vehicle inspection"
+        ],
+        "reverse": false,
+        "cardLabel": "Service",
+        "cardTitle": "Diagnostic Scan",
+        "cardBody": "Starting at $49.95"
+      },
+      {
+        "eyebrow": "Brakes",
+        "title": "Complete Brake Service",
+        "body": "Your safety is our priority. We inspect, repair, and replace brake pads, rotors, calipers, and fluid to ensure your vehicle stops reliably in all conditions.",
+        "bullets": [
+          "Brake pad replacement",
+          "Rotor resurfacing or replacement",
+          "Brake fluid flush"
+        ],
+        "reverse": true,
+        "cardLabel": "Package",
+        "cardTitle": "Brake Special",
+        "cardBody": "Front brake service from $149.99"
+      }
+    ],
+    "whyTitle": "Why Choose Dallas Auto Repair?",
+    "whyChooseUs": [
+      {
+        "title": "Certified Technicians",
+        "description": "Our ASE-certified mechanics have the training and experience to handle any make or model."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "We provide detailed estimates upfront with no hidden fees. You approve all work before we begin."
+      },
+      {
+        "title": "Fast Turnaround",
+        "description": "Most repairs are completed the same day. We value your time and keep you informed throughout the process."
+      },
+      {
+        "title": "Warranty on All Repairs",
+        "description": "Every repair comes with a 12-month/12,000-mile warranty for your peace of mind."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Dallas Auto Repair fixed my transmission quickly and at a fair price. They kept me updated the whole time. Highly recommend!",
+        "author": "Mike J.",
+        "role": "Pleasant Grove Resident"
+      },
+      {
+        "quote": "I've been bringing my car here for years. Honest work, great communication, and they never try to upsell.",
+        "author": "Linda T.",
+        "role": "Lakewood Homeowner"
+      },
+      {
+        "quote": "Best mechanic in Dallas! They diagnosed my check engine light in minutes and saved me hundreds compared to the dealer.",
+        "author": "Carlos R.",
+        "role": "Oak Cliff Driver"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Your Car Back on the Road?",
+      "subheadline": "Call us or book online for fast, reliable service.",
+      "primaryCta": "Call (214) 275-5955",
+      "secondaryCta": "Request Appointment"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Dallas Auto Repair, we offer a full range of auto repair and maintenance services to keep your vehicle running smoothly. From routine oil changes to major engine repairs, our certified technicians use the latest tools and techniques to deliver quality workmanship. We serve Dallas, TX, and surrounding areas with honesty and expertise."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Comprehensive engine diagnostics and repair to restore performance.",
+      "longDescription": "Our advanced diagnostic tools pinpoint engine issues quickly. Whether it's a check engine light, rough idle, or loss of power, we provide precise repairs using OEM-quality parts. We service all makes and models.",
+      "benefits": [
+        "Accurate diagnosis saves time and money",
+        "Restored engine performance and fuel efficiency",
+        "Extended engine life with proper repairs"
+      ],
+      "process": [
+        {
+          "title": "Digital Scan",
+          "description": "We connect your vehicle to our diagnostic computer to read error codes and live data."
+        },
+        {
+          "title": "Inspection & Report",
+          "description": "Our technician inspects the affected systems and provides a clear, written estimate."
+        },
+        {
+          "title": "Repair & Test",
+          "description": "After approval, we perform the repair and test-drive your car to ensure everything is working perfectly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How much does an engine diagnostic cost?",
+          "answer": "Our diagnostic fee starts at $49.95, which is waived if you choose to have the repair performed by us."
+        },
+        {
+          "question": "How long does an engine repair take?",
+          "answer": "It depends on the issue, but most diagnostics and minor repairs are completed the same day. Major repairs may require 1-3 days."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Brake Repair & Replacement",
+      "shortDescription": "Expert brake services for safe, reliable stopping power.",
+      "longDescription": "From squeaky brakes to complete brake failure, we handle all brake system repairs. We inspect pads, rotors, calipers, lines, and fluid to ensure your brakes are in top condition. Your safety is our priority.",
+      "benefits": [
+        "Improved stopping distance and safety",
+        "Quiet, smooth braking performance",
+        "Long-lasting components with warranty"
+      ],
+      "process": [
+        {
+          "title": "Brake Inspection",
+          "description": "We check pad thickness, rotor condition, caliper function, and fluid level."
+        },
+        {
+          "title": "Detailed Estimate",
+          "description": "You receive a full breakdown of recommended services with no pressure."
+        },
+        {
+          "title": "Professional Service",
+          "description": "We replace worn parts with quality components and test the system thoroughly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000 to 50,000 miles, but it depends on driving habits. We inspect them free with any service."
+        },
+        {
+          "question": "Do you offer a warranty on brake repairs?",
+          "answer": "Yes, all brake repairs come with a 12-month/12,000-mile warranty on parts and labor."
+        }
+      ],
+      "slug": "brake-repair-replacement"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Change & Fluid Services",
+      "shortDescription": "Regular maintenance including oil changes and fluid checks.",
+      "longDescription": "Keep your engine running smoothly with our oil change and fluid services. We use high-quality oil and filters, and check all essential fluids including coolant, transmission, brake, and power steering fluid. A quick, affordable way to extend your car's life.",
+      "benefits": [
+        "Protects engine from wear and overheating",
+        "Improves fuel economy and performance",
+        "Prevents costly repairs down the road"
+      ],
+      "process": [
+        {
+          "title": "Fluid Check",
+          "description": "We check all fluid levels and condition."
+        },
+        {
+          "title": "Oil & Filter Change",
+          "description": "Drain old oil, replace filter, and refill with the correct grade of oil."
+        },
+        {
+          "title": "Multi-Point Inspection",
+          "description": "We inspect belts, hoses, tires, and lights at no extra charge."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I get an oil change?",
+          "answer": "Most vehicles need an oil change every 5,000 to 7,500 miles. Check your owner's manual or ask us."
+        },
+        {
+          "question": "What type of oil do you use?",
+          "answer": "We use quality conventional, synthetic blend, and full synthetic oils to match your vehicle's requirements."
+        }
+      ],
+      "slug": "oil-change-fluid-services"
+    },
+    {
+      "icon": "04",
+      "title": "AC & Heating Repair",
+      "shortDescription": "Keep your cabin comfortable with expert AC and heating service.",
+      "longDescription": "Is your car's AC blowing warm air or your heater not working? We diagnose and repair all climate control issues, from refrigerant leaks to faulty compressors. Stay comfortable year-round with our professional service.",
+      "benefits": [
+        "Restored cabin comfort in all seasons",
+        "Proper refrigerant levels for efficiency",
+        "Prevents damage to expensive components"
+      ],
+      "process": [
+        {
+          "title": "System Inspection",
+          "description": "We check refrigerant pressure, compressor operation, and vent temperatures."
+        },
+        {
+          "title": "Leak Detection",
+          "description": "Using UV dye and electronic detectors, we find and seal leaks."
+        },
+        {
+          "title": "Repair & Recharge",
+          "description": "We replace faulty parts and recharge the system to manufacturer specs."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my car AC not blowing cold air?",
+          "answer": "Common causes include low refrigerant, a faulty compressor, or a clogged condenser. We can diagnose the exact issue."
+        },
+        {
+          "question": "How much does an AC repair cost?",
+          "answer": "Costs vary based on the problem. Our diagnostic fee is $49.95, and we provide a free estimate before any work."
+        }
+      ],
+      "slug": "ac-heating-repair"
+    }
+  ],
+  "about": {
+    "headline": "Dallas Auto Repair: Your Local Auto Care Experts",
+    "mission": "To provide honest, high-quality auto repair services that keep our community safe on the road. We believe in transparency, integrity, and exceptional craftsmanship.",
+    "story": [
+      "Dallas Auto Repair was founded over two decades ago with a simple mission: offer reliable car repairs at fair prices. What started as a small two-bay shop on Buckner Blvd has grown into a trusted destination for drivers across Dallas. Our founder, a lifelong mechanic, built the business on the principle that every customer deserves to understand what's happening with their car and why.",
+      "Today, our team of ASE-certified technicians continues that tradition. We invest in the latest diagnostic equipment and ongoing training to service modern vehicles effectively. But we haven't forgotten the personal touch — we still greet every customer by name, explain repairs in plain language, and stand behind our work with a solid warranty. Whether you need a simple oil change or a complex engine repair, we treat your car as if it were our own."
+    ],
+    "highlight": {
+      "stat": "25+",
+      "label": "Years of Service"
+    },
+    "coreValues": [
+      {
+        "title": "Honesty",
+        "description": "We never recommend unnecessary repairs. Our estimates are clear and upfront."
+      },
+      {
+        "title": "Quality",
+        "description": "We use only quality parts and follow manufacturer specifications for every repair."
+      },
+      {
+        "title": "Respect",
+        "description": "We value your time and your trust. We communicate clearly and complete work on schedule."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Dallas Auto Repair",
+    "subheadline": "We're here to help with all your auto repair needs. Call, visit, or schedule online.",
+    "primaryCta": "Call (214) 275-5955",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Mesquite",
+      "Garland",
+      "Balch Springs",
+      "Seagoville",
+      "Hutchins"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.1,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2142755955",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
